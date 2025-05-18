@@ -13,7 +13,7 @@ Geometry is the branch of mathematics that focuses on the properties, relationsh
 
 * **5. [Circles](./Circles.ipynb)** – Chords, tangents, arcs, circumference, and sector areas.
 
-* **6. Coordinate Geometry** – Graphing, slope, distance, and midpoint formulas.
+* **6. [Coordinate Geometry](./Coordinate_Geometry.ipynb)** – Graphing, slope, distance, and midpoint formulas.
 
 * **7. Transformation**s – Rotations, reflections, translations, and dilations.
 
