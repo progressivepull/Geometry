@@ -11,7 +11,7 @@ Geometry is the branch of mathematics that focuses on the properties, relationsh
 
 * **4. [Quadrilaterals and Polygons](./Quadrilaterals_and_Polygons.ipynb)** – Properties and classifications of various shapes.
 
-* **5. Circles** – Chords, tangents, arcs, circumference, and sector areas.
+* **5. [Circles](./Circles.ipynb)** – Chords, tangents, arcs, circumference, and sector areas.
 
 * **6. Coordinate Geometry** – Graphing, slope, distance, and midpoint formulas.
 
