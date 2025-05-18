@@ -5,7 +5,7 @@ Geometry is the branch of mathematics that focuses on the properties, relationsh
 
 * **1. [Introduction to Geometry](./Introduction_to_Geometry.ipynb)** – Basics of points, lines, angles, and planes.
 
-* **2. Parallel and Perpendicular Lines** – Relationships, slopes, and theorems.
+* **2. [Parallel and Perpendicular Lines](./Parallel_and_Perpendicular_Lines.ipynb)** – Relationships, slopes, and theorems.
 
 * **3. Triangles and Their Properties** – Congruence, similarity, and the Pythagorean theorem.
 
