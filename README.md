@@ -5,21 +5,21 @@ Geometry is the branch of mathematics that focuses on the properties, relationsh
 
 * **1. Introduction to Geometry** – Basics of points, lines, angles, and planes.
 
-* **Parallel and Perpendicular Lines** – Relationships, slopes, and theorems.
+* **2. Parallel and Perpendicular Lines** – Relationships, slopes, and theorems.
 
-* **Triangles and Their Properties** – Congruence, similarity, and the Pythagorean theorem.
+* **3. Triangles and Their Properties** – Congruence, similarity, and the Pythagorean theorem.
 
-* **Quadrilaterals and Polygons** – Properties and classifications of various shapes.
+* **4. Quadrilaterals and Polygons** – Properties and classifications of various shapes.
 
-* **Circles** – Chords, tangents, arcs, circumference, and sector areas.
+* **5. Circles** – Chords, tangents, arcs, circumference, and sector areas.
 
-* **Coordinate Geometry** – Graphing, slope, distance, and midpoint formulas.
+* **6. Coordinate Geometry** – Graphing, slope, distance, and midpoint formulas.
 
-* **Transformation**s – Rotations, reflections, translations, and dilations.
+* **7. Transformation**s – Rotations, reflections, translations, and dilations.
 
-* **Three-Dimensional Geometry** – Volume, surface area, and properties of solids.
+* **8. Three-Dimensional Geometry** – Volume, surface area, and properties of solids.
 
-* **Trigonometry Basics** – Right triangles, sine, cosine, tangent, and applications.
+* **9. Trigonometry Basics** – Right triangles, sine, cosine, tangent, and applications.
 
 # Here are key concepts in geometry:
 
