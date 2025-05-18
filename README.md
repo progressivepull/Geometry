@@ -7,7 +7,7 @@ Geometry is the branch of mathematics that focuses on the properties, relationsh
 
 * **2. [Parallel and Perpendicular Lines](./Parallel_and_Perpendicular_Lines.ipynb)** – Relationships, slopes, and theorems.
 
-* **3. Triangles and Their Properties** – Congruence, similarity, and the Pythagorean theorem.
+* **3. [Triangles and Their Properties](./Triangles_and_Their_Properties.ipynb)** – Congruence, similarity, and the Pythagorean theorem.
 
 * **4. Quadrilaterals and Polygons** – Properties and classifications of various shapes.
 
