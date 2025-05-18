@@ -3,7 +3,7 @@
 # Description 
 Geometry is the branch of mathematics that focuses on the properties, relationships, and measurements of shapes, sizes, and spaces. It explores points, lines, angles, surfaces, and solids, helping us understand how objects are positioned and interact in both two-dimensional and three-dimensional spaces.
 
-* **1. Introduction to Geometry** – Basics of points, lines, angles, and planes.
+* **1. [Introduction to Geometry](./Introduction_to_Geometry.ipynb)** – Basics of points, lines, angles, and planes.
 
 * **2. Parallel and Perpendicular Lines** – Relationships, slopes, and theorems.
 
