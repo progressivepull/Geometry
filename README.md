@@ -19,7 +19,7 @@ Geometry is the branch of mathematics that focuses on the properties, relationsh
 
 * **8. [Three-Dimensional Geometry](./Three-Dimensional_Geometry.ipynb)** – Volume, surface area, and properties of solids.
 
-* **9. Trigonometry Basics** – Right triangles, sine, cosine, tangent, and applications.
+* **9. {Trigonometry Basics](./Trigonometry_Basics.ipynb)** – Right triangles, sine, cosine, tangent, and applications.
 
 # Here are key concepts in geometry:
 
