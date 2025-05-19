@@ -1,5 +1,0 @@
-# [Geometry Context](./README.md)
-
-write a markdown tutorial using Python for Geometry
-
-Introduction to Geometry – Basics of points, lines, angles, and planes.
