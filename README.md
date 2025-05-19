@@ -15,7 +15,7 @@ Geometry is the branch of mathematics that focuses on the properties, relationsh
 
 * **6. [Coordinate Geometry](./Coordinate_Geometry.ipynb)** – Graphing, slope, distance, and midpoint formulas.
 
-* **7. Transformation**s – Rotations, reflections, translations, and dilations.
+* **7. [Transformations](./Transformations.ipynb)** – Rotations, reflections, translations, and dilations.
 
 * **8. Three-Dimensional Geometry** – Volume, surface area, and properties of solids.
 
